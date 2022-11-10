@@ -1,0 +1,25 @@
+.stor_kasse{
+    display: flex;
+}
+.kasse1{
+    height: 20rem;
+    width: 20rem;
+    background-color: cornflowerblue;
+    margin: 1rem;
+
+}
+
+.kasse2{
+    height: 20rem;
+    width: 20rem;
+    background-color: coral;
+    margin: 1rem;
+
+}
+
+.kasse3{
+    height: 20rem;
+    width: 20rem;
+    background-color: cornsilk;
+    margin: 1rem;
+}
